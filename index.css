@@ -24,13 +24,26 @@
 }
 
 h1{
-	color: var(--yellow)
+	color: var(--yellow);
 }
 
 h2{
-	color: var(--orange)
+	color: var(--orange);
 }
 
 ul{
-	color: var(--green)
+	color: var(--green);
+}
+
+a{
+	color: var(--cyan);
+}
+
+a:visited{
+	color: var(--violet);
+}
+
+.linux{
+	display: table;
+	background-color: var(--base02);
 }
